@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb5a6cf5-f405-40d4-9951-9b6b12e6b151" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wyy/bean/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wyy/utils/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/wyy/bean/Student.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/wyy/utils/Test.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -103,7 +99,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -189,7 +185,7 @@
       <option name="presentableId" value="Default" />
       <updated>1557714705980</updated>
       <workItem from="1557714710764" duration="504000" />
-      <workItem from="1557715237363" duration="4590000" />
+      <workItem from="1557715237363" duration="5038000" />
     </task>
     <task id="LOCAL-00001" summary="aaa">
       <created>1557726923369</created>
@@ -202,7 +198,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5094000" />
+    <option name="totallyTimeSpent" value="5542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-585" y="-1417" width="2560" height="1417" extended-state="6" />
@@ -219,10 +215,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3348485" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3348485" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13939634" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13939634" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
