@@ -11,5 +11,7 @@ export default {
   dam_material_group_details: "Asset Group Details",
   dam_recommend_material_group: "Feed clip",
   dam_metadata_effect_time: "Entry into force date",
-  dam_metadata_never_expires_time: "Valid forever"
+  dam_metadata_never_expires_time: "Valid forever",
+  dam_aaa: '我是中国人',
+  dam_vvv: 'hello'
 };
