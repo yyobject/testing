@@ -1,0 +1,3 @@
+files:
+  - source: /src/main/java/com/wyy/bean/Student.java
+    translation: /src/main/java/com/wyy/bean/%language%/a.java
